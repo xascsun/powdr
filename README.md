@@ -7,8 +7,6 @@
 [![Matrix Chat](https://img.shields.io/badge/Matrix%20-chat-brightgreen?style=plastic&logo=matrix)](https://matrix.to/#/#powdr:matrix.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/powdr_labs?style=plastic&logo=twitter)](https://twitter.com/powdr_labs)<!-- markdown-link-check-disable-line -->
 
-> WARNING: This codebase is experimental and has not been audited. DO NOT USE FOR PRODUCTION!
-
 For detailed documentation please visit [the powdr book](https://docs.powdr.org/).
 
 If you have any questions or want to contribute, feel free to write us in our [Matrix Chat](https://matrix.to/#/#powdr:matrix.org).
